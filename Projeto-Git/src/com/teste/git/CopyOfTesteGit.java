@@ -1,6 +1,6 @@
 package com.teste.git;
 
-public class TesteGit {
+public class CopyOfTesteGit {
 
 	/**
 	 * @param args
